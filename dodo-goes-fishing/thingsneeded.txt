@@ -1,0 +1,5 @@
+[] Make water class;
+[] Make the fisherman dodo image;
+[] Make the dodo move;
+[] Make fishing rod;
+[] Make fishes;
